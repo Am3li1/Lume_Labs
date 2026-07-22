@@ -22,6 +22,7 @@ ${lines}
 Write a clean, professional PRD grounded ONLY in the information above.
 - Do not invent features, numbers, dates, or scope items that weren't mentioned.
 - If budget or timeline weren't specified, state plainly that they're flexible or to be determined — never guess a figure.
+- Always express any currency in Indian Rupees (₹), never USD ($).
 - Functional requirements should be concrete and derived from the must-have features and project description, not generic boilerplate.
 - Keep tone professional but not stiff — this is a real brief for a real project, not filler text.`;
 }
