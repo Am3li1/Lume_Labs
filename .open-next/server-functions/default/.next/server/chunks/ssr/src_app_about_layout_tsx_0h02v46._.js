@@ -1,0 +1,3 @@
+module.exports=[65955,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)(b.Fragment,{children:a})},"metadata",0,{title:"About",description:"Lume Labs is a one-person software consultancy by Amelia Santosh. Every project gets direct, senior-level engineering from first conversation to deployment.",alternates:{canonical:"https://lumelabs.dev/about"}}])},69807,a=>{a.n(a.i(65955))}];
+
+//# sourceMappingURL=src_app_about_layout_tsx_0h02v46._.js.map

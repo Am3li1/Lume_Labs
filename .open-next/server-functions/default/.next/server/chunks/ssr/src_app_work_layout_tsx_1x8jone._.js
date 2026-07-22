@@ -1,0 +1,3 @@
+module.exports=[34641,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)(b.Fragment,{children:a})},"metadata",0,{title:"Work",description:"Projects built by Lume Labs — including a full-stack production management system for a furniture manufacturer.",alternates:{canonical:"https://lumelabs.dev/work"}}])},76592,a=>{a.n(a.i(34641))}];
+
+//# sourceMappingURL=src_app_work_layout_tsx_1x8jone._.js.map

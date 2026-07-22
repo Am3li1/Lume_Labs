@@ -1,0 +1,3 @@
+module.exports=[44222,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)(b.Fragment,{children:a})},"metadata",0,{title:"Services",description:"Custom web applications, business automation, AI solutions, and scalable backend infrastructure — built by Lume Labs.",alternates:{canonical:"https://lumelabs.dev/services"}}])},98526,a=>{a.n(a.i(44222))}];
+
+//# sourceMappingURL=src_app_services_layout_tsx_0ybzkqf._.js.map

@@ -1,0 +1,18 @@
+{
+  "node": {
+    "407951de594062f4e742727d4a3f721314f2b85393": {
+      "workers": {
+        "app/contact/page": {
+          "moduleId": 83192,
+          "async": false,
+          "exportedName": "sendContactEmail",
+          "filename": "src/lib/actions.ts"
+        }
+      },
+      "filename": "src/lib/actions.ts",
+      "exportedName": "sendContactEmail"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "AenHSQiQFHddVKicCW4n06p5tOMWZuk49nDf8ccsFCc="
+}
