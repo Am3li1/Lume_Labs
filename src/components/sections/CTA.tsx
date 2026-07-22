@@ -17,7 +17,7 @@ export default function CTA() {
           Have a project in mind?
         </h2>
         <p className="mt-4 text-text-muted">
-          Let's talk about what you're trying to build and whether I'm the right fit.
+          Let's talk about what you're trying to build and whether we're the right fit.
         </p>
         <div className="mt-8">
           <Link

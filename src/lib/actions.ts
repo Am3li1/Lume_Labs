@@ -99,7 +99,7 @@ export async function sendConsultationPRD(prd: PRDContent, answers: AnswerMap) {
       from: "Lume Labs <hello@lumelabs.dev>",
       to: clientEmail,
       subject: `Your Lume Labs Project Brief — ${clientName}`,
-      text: `Hi ${clientName},\n\nThanks for walking through your project with me. Here's a copy of what we put together:\n\n${prdText}\n\nI'll follow up within 1-2 business days.\n\n— Amelia, Lume Labs`,
+      text: `Hi ${clientName},\n\nThanks for walking through your project with us. Here's a copy of what we put together:\n\n${prdText}\n\nWe'll follow up within 1-2 business days.\n\n— The Lume Labs Team`,
     });
 
     return { success: true };
